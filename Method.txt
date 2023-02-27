@@ -1,0 +1,10 @@
+1. Start 
+2. Declare an empty dictionary that will contain the frames
+3. Divide the original data into frames of 8 bits per frame and store it in the dictionary
+4. Start a loop and calculcate the summation of all elements in the dictionary using binary addition
+5. Perform 1's complement of the result and store it in the dictionary
+
+6. Start a loop and calculcate the sum of all elements present in the received disctionary
+7. If all the bits in sum is 1, then display that the received message is pure,
+8. Else display that the received message is corrupted
+9. End
