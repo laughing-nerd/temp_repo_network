@@ -1,3 +1,5 @@
+Checksum:-
+
 1. Start 
 2. Declare an empty dictionary that will contain the frames
 3. Divide the original data into frames of 8 bits per frame and store it in the dictionary
